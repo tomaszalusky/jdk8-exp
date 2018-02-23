@@ -3,6 +3,8 @@
 Java 8 experiments
 
 
+<script type="text/javascript">alert("hello");</script>
+
 <b>xxx</b>
 
 

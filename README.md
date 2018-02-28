@@ -2,6 +2,8 @@
 
 Java 8 experiments
 
+[link](README.md)
+
 
 <script type="text/javascript">alert("hello");</script>
 
